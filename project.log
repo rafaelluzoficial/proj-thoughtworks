@@ -1,0 +1,99 @@
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/word_count.py', 'resources/word_count', '/home/rafael/PycharmProjects/dataengineer/output']
+INFO:root:Application Initialized: WordCount
+INFO:root:Reading text file from: resources/word_count
+INFO:root:Writing csv to directory: /home/rafael/PycharmProjects/dataengineer/output
+INFO:root:Application Done: WordCount
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/word_count.py', 'resources/word_count', '/home/rafael/PycharmProjects/dataengineer/output/wcount']
+INFO:root:Application Initialized: WordCount
+INFO:root:Reading text file from: resources/word_count
+INFO:root:Writing csv to directory: /home/rafael/PycharmProjects/dataengineer/output/wcount
+INFO:root:Application Done: WordCount
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', 'resources/citibike', '/home/rafael/PycharmProjects/dataengineer/output/cbike']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: resources/citibike
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/citibike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv', '/home/rafael/PycharmProjects/dataengineer/output/cbike/parquet']
+INFO:root:Application Initialized: Citibike Pipeline: Ingest
+INFO:root:Reading text file from: /home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv
+INFO:root:Application Done: Citibike Pipeline: Ingest
+INFO:root:['/home/rafael/PycharmProjects/dataengineer/jobs/citibike_ingest.py', '/home/rafael/PycharmProjects/dataengineer/resources/citibike/citibike.csv']
+WARNING:root:Input source and output path are required
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
+INFO:root:Application Initialized: Citibike Pipeline: Distance Calculation
+INFO:root:Application Done: Citibike Pipeline: Distance Calculation
